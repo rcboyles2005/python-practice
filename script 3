@@ -1,0 +1,4 @@
+items = ["apple", "banana", "orange", "grape", "pear"]
+
+for item in items:
+    print(item)
